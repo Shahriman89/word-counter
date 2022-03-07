@@ -1,0 +1,11 @@
+modules:
+  macro:
+    - key: word-counter
+      function: main
+      title: word-counter
+      description: Inserts Words!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/3fc6d9e5-6481-4ebf-ac38-6cf4194b93fe
