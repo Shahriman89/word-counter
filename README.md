@@ -5,6 +5,9 @@ To add the project to confluence page type /word-counter .
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
+## Install link confluence app
+https://developer.atlassian.com/console/install/3fc6d9e5-6481-4ebf-ac38-6cf4194b93fe?signature=c4b73c3baf6fe2093667d5b63ab163755abe68a12752cd099e7b3cbce0fb0b15&product=confluence
+
 ## Requirements
 
 See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
