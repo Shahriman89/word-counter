@@ -33,6 +33,9 @@ forge tunnel
 - Use the `forge install` command when you want to install the app on a new site.
 - Once the app is installed on a site, the site picks up the new app changes you deploy without needing to rerun the install command.
 
+### UI
+![word-counter](https://user-images.githubusercontent.com/52990035/156964465-28da7469-c7f3-4b3e-9bb2-6d4aa56f9b01.png)
+
 
 ## Support
 
